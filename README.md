@@ -43,7 +43,7 @@ I'm open to collaboration and improvements to this project. If you have any idea
 You can reach me through the following channels:
 
 - GitHub: [@CodeByAshtul](https://github.com/CodeByAshtul)
-- Email: [your@email.com](mailto:your@email.com)
+- Email: [ranjeetashtul6@email.com](mailto:ranjeetashtul6@email.com)
 
 Let's make this project even better together! 🕒
 <!---

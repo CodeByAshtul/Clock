@@ -12,8 +12,8 @@ Welcome to the repository for the "Clock" project.
 This project is a simple clock application built using HTML, CSS, and JavaScript. The clock displays the current time and updates in real-time.
 
 ![Clock Preview image](https://github.com/CodeByAshtul/Clock/assets/132897582/fb2525b3-24b1-43ff-9219-23fa84a25803)
-  https://codebyashtul.github.io/Clock/
-## **Here click see to  project ** : [## Clock](https://codebyashtul.github.io/Clock/)
+
+## Here click see to  project : [Clock](https://codebyashtul.github.io/Clock/)
 
 ## Features
 
